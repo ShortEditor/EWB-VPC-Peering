@@ -1,0 +1,7 @@
+--- TEST 05a: controlled failure, ICMP rule removed on App-B ---
+PING 10.20.1.10 (10.20.1.10) 56(84) bytes of data.
+
+--- 10.20.1.10 ping statistics ---
+4 packets transmitted, 0 received, 100% packet loss, time 3116ms
+
+exit=1
